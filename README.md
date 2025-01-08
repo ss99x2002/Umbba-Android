@@ -23,7 +23,7 @@
 ### ⚒️ Tech Stack
 | | Tech Stack  |
 | --- | --- |
-| 아키텍처 | MVVM |
+| 아키텍처 | MVVM, Google Recommended Architecture  |
 | DI | Hilt |
 | 소셜로그인 | KakaoLogin, KakaoLink |
 | 자동로그인 | EncryptedSharedPreferences |
