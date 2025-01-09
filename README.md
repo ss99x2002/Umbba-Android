@@ -38,7 +38,7 @@
 
 ### 👩‍💻 트러블슈팅 및 기술적 고민
 **[🔗 EncryptedSharedPreferences 트러블슈팅 : 앱을 삭제했는데 데이터가 남아있다고요?](https://hyeonlog-developer.tistory.com/149)**
-<br> **[🔗 첫 Hilt 적용 리팩토링]()**
+<br> **[🔗 첫 Hilt 적용 리팩토링](https://hyeonlog-developer.tistory.com/134)**
 <br> **[🔗 커스텀 인앱 업데이트 뷰 만들기](https://hyeonlog-developer.tistory.com/159)**
 <br> **[🔗 registerForActivityResult로 팝업 Activity를 만들어보자](https://hyeonlog-developer.tistory.com/135)**
 
